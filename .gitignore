@@ -1,7 +1,25 @@
-```
-# Agent-specific files
-#.agent/policy/examples.md
-#.agent/policy/skills.md
-#.agent/system-prompt.txt
-#.agent/tests/powershell-policy-tests.md
+```gitignore
+# PowerShell modules and dependencies
+Modules/
+
+# Web server related
+webroot/logs/
+webroot/temp/
+*.log
+
+# Environment variables
+.env
+.env.local
+*.env.*
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
 ```
