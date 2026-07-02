@@ -1,7 +1,7 @@
 ```
 # Agent-specific files
-.agent/policy/examples.md
-.agent/policy/skills.md
-.agent/system-prompt.txt
-.agent/tests/powershell-policy-tests.md
+#.agent/policy/examples.md
+#.agent/policy/skills.md
+#.agent/system-prompt.txt
+#.agent/tests/powershell-policy-tests.md
 ```
